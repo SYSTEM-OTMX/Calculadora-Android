@@ -40,12 +40,13 @@
             android:weightSum="4">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_Clear"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                <TextView
                    android:layout_width="match_parent"
@@ -57,12 +58,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_back"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <ImageView
                     android:layout_gravity="center"
@@ -73,12 +75,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_Porciento"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
               <ImageView
                   android:layout_width="match_parent"
@@ -88,12 +91,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_division"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <ImageView
                     android:padding="10dp"
@@ -112,12 +116,13 @@
             android:weightSum="4">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_7"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -129,12 +134,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_8"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -147,12 +153,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_9"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -165,12 +172,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_multiplicar"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -189,12 +197,13 @@
             android:weightSum="4">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_4"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -206,12 +215,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_5"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -224,12 +234,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_6"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -242,12 +253,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_resta"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -267,12 +279,13 @@
             android:weightSum="4">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_1"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -280,16 +293,17 @@
                     android:layout_gravity="center"
                     android:text="1"
                     android:textAlignment="center"
-                    android:textSize="50sp"/>
+                    android:textSize="50sp" />
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_2"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -302,12 +316,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_3"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -320,12 +335,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_sumar"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -342,15 +358,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:weightSum="4">
+            android:weightSum="4"
+            android:layout_marginBottom="10dp">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_SYSTEM_OTMX"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <ImageView
                     android:layout_width="match_parent"
@@ -360,12 +378,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/Btn_0"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
                     android:layout_width="match_parent"
@@ -378,13 +397,13 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:clickable="true"
+                android:id="@+id/Btn_point"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp">
+                android:layout_margin="7dp">
 
                 <TextView
 
@@ -399,21 +418,20 @@
 
 
             <androidx.cardview.widget.CardView
-                android:clickable="true"
+                android:id="@+id/Btn_resultado"
                 android:layout_width="70dp"
                 android:layout_height="70dp"
-                app:cardElevation="5dp"
-                app:cardCornerRadius="15sp"
+                app:cardElevation="3dp"
+                app:cardCornerRadius="10sp"
                 android:layout_weight="1"
-                android:layout_margin="13dp"
-                app:cardBackgroundColor="@color/btn_result"
-               >
+                android:layout_margin="7dp"
+                app:cardBackgroundColor="@color/btn_result">
 
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="10dp"
-                    android:src="@drawable/result" />
+                    android:src="@drawable/result"/>
 
             </androidx.cardview.widget.CardView>
 
