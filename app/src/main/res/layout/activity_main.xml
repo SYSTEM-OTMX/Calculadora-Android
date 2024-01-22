@@ -13,12 +13,26 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:gravity="top">
+        android:orientation="vertical">
 
-
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/AM_RV_Historial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/item_historial_resultado"
+            app:spanCount="4"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            android:layout_gravity="right"/>
 
         <TextView
+            android:id="@+id/AM_TV_Prersultado"
+            android:layout_gravity="right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Preresultado"/>
+        <TextView
+            android:id="@+id/AM_TV_Resultado"
+            android:layout_gravity="right"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="resultado"/>
