@@ -24,7 +24,7 @@ class AdaptadorHistorial(
     }
 
     override fun getItemCount(): Int {
-        return historialArrayList.size
+        return 4
     }
 
     override fun onBindViewHolder(holder: AdaptadorHistorial.HolderHistorial, position: Int) {
